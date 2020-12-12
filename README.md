@@ -16,7 +16,7 @@ Projemizin stabil çalışması durumunda otellerde müşteri kaydı ve müşter
 -
 -
 
-### Projenin Çalışması###
+### Projenin Çalışması ###
 Kişi Ekle’ye basıldığında kimlik kameraya gösterilerek okutulan bilgiler mesaj penceresi olarak ekrana gelir. Bilgiler doğru ise OK butonu ile onaylanarak tabloya aktarılır. Cancel ile tekrar kimlik okuma işlemi aktif hale gelir. Eğer veri okumada hata meydana gelirse uyarı mesajı çıkar ve kimlik yeniden okutulur. Kimlik okutulduğunda form öğeleri aktif hale gelir ve veriler seçilip Giriş Yap butonuna tıklandığında veriler veritabanına kaydedilir. Kimlik okutulduğunda veritabanından TC Kimlik No kontrolü yapılır. Eğer kimlik no veritabanında var ise form alanı pasif olur. Sadece Çıkış Yap butonu aktif hale gelir. Çıkış Yap butonuna tıklandığında ise veriler silinir ve kimlik okuma tekrar aktif hale gelir.
 
 ### Hazırlayanlar ###
